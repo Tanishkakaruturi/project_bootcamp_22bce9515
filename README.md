@@ -1,5 +1,5 @@
 MLC bootcamp project work
-I chose Netflix Imdb scores data set from kaggle.com(https://www.kaggle.com/datasets/thedevastator/netflix-imdb-scores/data)
+-I chose Netflix Imdb scores data set from kaggle.com(https://www.kaggle.com/datasets/thedevastator/netflix-imdb-scores/data)
 The file Netflix TV Shows and Movies.csv contains comprehensive information about various titles available on Netflix, including their titles, release years, runtime, IMDB scores, and IMDB votes
 title: The name of a TV show or movie. (Text)
 type: Indicates whether an entry is a TV show or a movie. (Text)
